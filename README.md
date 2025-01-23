@@ -1,5 +1,9 @@
+# Early Alpha version!
+
 # Marlin 1.1.9 easyconfig for heavily modified tevo tarantula with fixed bugs. 
 You can find the original code here: https://3diest.com/tevo-tarantula-3d-printer-latest-marlin-firmware-upgrade/.
+
+# --- original readme ---
 
 # Marlin 3D Printer Firmware
 <img align="right" src="../../raw/1.1.x/buildroot/share/pixmaps/logo/marlin-250.png" />
